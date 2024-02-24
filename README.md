@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Voyager0001
-- 👀 I’m interested in AI, algoritms, games, audio design etc.
-- 🌱 I’m currently learning godot, unity, unreal engine and wwise
+- Helloooo, I’m Faisal! 
+- Interested in apps design, games design, audio design etc. ^_^
+- Currently learning flutter, unreal C++ and wwise
+- Full stack... 😓
 
 <!---
 Voyager0001/Voyager0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
