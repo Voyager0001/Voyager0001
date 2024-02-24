@@ -1,6 +1,6 @@
 - Helloooo, I’m Faisal!!!!! 
 - Interested in apps design, games design, audio design etc. ^_^
-- Currently learning flutter, unreal C++ and wwise :D
+- Currently learning django, unreal C++ and wwise :D
 - Full stack... 😓
 
 <!---
