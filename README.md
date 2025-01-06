@@ -1,5 +1,5 @@
 - Helloooo, I’m Faisal!!!!! 
-- Interested in apps design, games design, audio design etc. ^_^
+- Interested in game design, audio design, graphics programming etc. ^_^
 - Currently, learning unreal engine source code , wwise and making our own game :D
 
 <!---
