@@ -1,5 +1,5 @@
-- Helloooo, I’m Faisal!!!!! 
-- Interested in game design, audio design, graphics programming etc. ^_^
+- Hello, I’m Faisal! 
+- Interested in game design, audio design, graphics programming etc.
 - Currently, learning unreal engine source code, wwise and opengl and vulkan  
 
 <!---
