@@ -1,6 +1,6 @@
 - Hello, I’m Faisal! 
 - Interested in game design, audio design, graphics programming etc.
-- Currently, learning unreal engine source code, wwise and opengl and vulkan  
+- Currently, learning unreal engine source code, wwise and high level graphics programming
 
 <!---
 Voyager0001/Voyager0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
